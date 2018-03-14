@@ -1,0 +1,3 @@
+[submodule "Lyrical-GraphQL"]
+	path = Lyrical-GraphQL
+	url = git@github.com:watadarkstar/Lyrical-GraphQL.git
